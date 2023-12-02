@@ -150,9 +150,3 @@ lbft = Button(buttonframe, text="lb/ft", bg="black", fg="yellow")
 lbft.grid(row=0, column=2, padx=30)
 
 indexwindow.mainloop()  #continous looping of main window
-
-
-
-
-#Add to the code as the button back 
-# backbutton = Button("namewindow", tex="back", command=namewindow.destroy)
